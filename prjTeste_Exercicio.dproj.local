@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/13 15:50:14.730.pas,C:\Users\JACU\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\JACU\Documents\RAD Studio\Projects\Teste_Exercicio_Entrevista\uForm1.pas</Transaction>
+    <Transaction>2017/01/13 15:50:14.730.dfm,C:\Users\JACU\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\JACU\Documents\RAD Studio\Projects\Teste_Exercicio_Entrevista\uForm1.dfm</Transaction>
+    <Transaction>2017/01/13 15:50:40.381.dproj,C:\Users\JACU\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\JACU\Documents\RAD Studio\Projects\Teste_Exercicio_Entrevista\prjTeste_Exercicio.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
